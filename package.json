@@ -1,0 +1,19 @@
+{
+  "name": "nodemail-tutorial",
+  "homepage": "Test-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "next": "^10.0.9",
+    "nodemailer": "^6.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
